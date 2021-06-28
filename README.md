@@ -24,9 +24,9 @@ You have been provided with an AWS Account to run this workshop.
    <img src="img/2021-04-06-11-13-51.png" width="750">
 
 6. In the pop-up window, click **Open AWS Console**, the Console will open in a new browser tab:
-   
-   <img src="img/2021-04-06-11-17-40.png" width="750"> 
 
+   <img src="img/2021-06-28-11-13-55.png" width="750">
+   
 7. In the Console, make sure you're in the Sydney (ap-southeast-2) AWS Region - the region selector is in the top right corner:
 
    <img src="img/2021-06-27-15-59-22.png" width="300">
@@ -36,7 +36,7 @@ You have been provided with an AWS Account to run this workshop.
 
    <img src="img/2021-06-27-15-58-10.png" width="300">
 
-9. You can rearrange tabs and panes within your Cloud9 environment as needed, we recommend the following layout with two bash sessions at the bottom, file lister on the left and the code editor at the top:
+9.  You can rearrange tabs and panes within your Cloud9 environment as needed, we recommend the following layout with two bash sessions at the bottom, file lister on the left and the code editor at the top:
 
    <img src="img/2021-06-28-10-44-35.png" width="750">
 
