@@ -40,4 +40,7 @@ You have been provided with an AWS Account to run this workshop.
 
    <img src="img/2021-06-28-10-44-35.png" width="750">
 
-Congrats, you're in! Please continue to https://cdkworkshop.com/20-typescript.html
+Congrats, you're in! Please continue to https://cdkworkshop.com/20-typescript.html and return here for more fun when you're done with the workshop
+
+# Bonus section: understanding resource lifecycle
+Click [here](lifecycle.md)
